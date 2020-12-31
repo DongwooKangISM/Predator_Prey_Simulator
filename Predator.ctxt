@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Predator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Predator\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=parent
+comment1.target=Predator(Predator)
+comment10.params=
+comment10.target=void\ checking()
+comment2.params=
+comment2.target=Predator()
+comment3.params=x\ y\ width\ height
+comment3.target=void\ picture(int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=void\ movement()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ bounceOffWall()
+comment7.params=
+comment7.target=void\ catchingPrey()
+comment8.params=
+comment8.target=void\ death()
+comment9.params=first\ end
+comment9.target=int\ choosing(int,\ int)
+numComments=11
